@@ -20,6 +20,8 @@
   
 </div>
 
+ ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+ 
 <h3>https://linktr.ee/DaviFariass</h3>
 <!--
 **DaviFariass/DaviFariass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

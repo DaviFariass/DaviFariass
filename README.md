@@ -32,6 +32,8 @@
 
   <br><br>
 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/DaviFariass/github-readme-stats)
+
 ### 🤝 Vamos nos conectar!
 
 <div align="center">

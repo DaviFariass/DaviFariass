@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Davi! 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Desenvolvedor+Multiplataforma;Apaixonado+por+Codigo+%26+Dados;Transformando+ideias+em+código" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Desenvolvedor+Multiplataforma;Apaixonado+por+Código+%26+Dados;Transformando+ideias+em+código" alt="Typing SVG" />
 
 <p>
   <b>Estudante de Tecnologia | Desenvolvedor de Software</b><br>

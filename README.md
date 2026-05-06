@@ -32,11 +32,6 @@
 
   <br><br>
 
-  <!-- Estatísticas Gerais e Linguagens -->
-  <img src="https://github-readme-stats.vercel.app/api?username=DaviFariass&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estatísticas do GitHub" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviFariass&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117" alt="Top Linguagens" height="160" />
-</div>
-
 ### 🤝 Vamos nos conectar!
 
 <div align="center">

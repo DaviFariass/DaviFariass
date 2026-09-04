@@ -23,11 +23,12 @@
 
 ---
 
-### 📊 Estatísticas e Contribuições
+### 📊 Estatísticas no GitHub
 
 <div align="center">
   <a href="https://github.com/DaviFariass">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaviFariass&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Gráfico de Atividades do Davi" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=DaviFariass&show_icons=true&theme=tokyo-night&hide_border=true&bg_color=0D1117" height="150" alt="Estatísticas do GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviFariass&layout=compact&theme=tokyo-night&hide_border=true&bg_color=0D1117" height="150" alt="Linguagens Mais Utilizadas" />
   </a>
 </div>
 

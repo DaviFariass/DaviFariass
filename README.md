@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Davi! 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Desenvolvedor+Multiplataforma;Apaixonado+por+Código+%26+Dados;Transformando+ideias+em+código" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Desenvolvedor+Multiplataforma;Apaixonado+por+C%C3%B3digo+%26+Dados;Transformando+ideias+em+c%C3%B3digo" alt="Typing SVG" />
 
 <p>
   <b>Estudante de Tecnologia | Desenvolvedor de Software</b><br>
@@ -22,15 +22,16 @@
 </div>
 
 ---
+
 ### 📊 Estatísticas e Contribuições
 
 <div align="center">
-  <!-- Gráfico de Linha de Contribuições (Activity Graph) -->
   <a href="https://github.com/DaviFariass">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaviFariass&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Gráfico de Atividades do Davi" width="100%" />
   </a>
+</div>
 
-  <br><br>
+---
 
 ### 🤝 Vamos nos conectar!
 

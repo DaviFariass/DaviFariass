@@ -17,7 +17,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,react,php,java,html,css,mysql,mongodb,figma&theme=dark&perline=10" alt="Minhas Habilidades" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,js,react,php,html,css,mysql,mongodb,docker,figma&theme=dark&perline=7" alt="Minhas Habilidades" />
   </a>
 </div>
 

@@ -23,23 +23,14 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🔌 Projetos de Internet das Coisas (IoT) - FATEC
 
-<div align="center">
+Repositório dedicado às práticas de microcontroladores, lógica em C/C++ e simulações de circuitos com Arduino e Wokwi.
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaviFariass&theme=github_dark" alt="Estatísticas Gerais" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaviFariass&theme=github_dark" alt="Linguagens Mais Utilizadas" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph-blue-psi.vercel.app/graph?username=DaviFariass&theme=github-compact&hide_border=true" alt="Gráfico de Atividades" />
-
-</div>
+* **`atv1/`** - Pisca LED Simples (Introdução às portas digitais e funções `setup` / `loop`).
+* **`atv2/`** - Alternador de LEDs (Controle sequencial de múltiplos pinos).
+* **`atv3/`** - Semáforo Inteligente (Protoboard, resistores de proteção e fechamento em GND).
+* **`atv4/`** - Sistema Interativo com Botão (Leitura de entradas digitais com `INPUT_PULLUP` e temporização).
 
 ---
 

@@ -1,11 +1,11 @@
 <div align="center">
 
-# 🌐 Meu Portfólio Pessoal
+# 🌐 Meu Readme Pessoal
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Desenvolvedor+Multiplataforma;Apaixonado+por+C%C3%B3digo+%26+Dados;Transformando+ideias+em+c%C3%B3digo" alt="Typing SVG" />
 
 <p>
-  <b>🌍 Acesse o site rodando:</b> <a href="https://davifariass.github.io/Perfil-pessoal/" target="_blank">https://davifariass.github.io/Perfil-pessoal/</a>
+  <b>🌍 Acesse meu portifolio:</b> <a href="https://davifariass.github.io/Perfil-pessoal/" target="_blank">https://davifariass.github.io/Perfil-pessoal/</a>
 </p>
 
 </div>
